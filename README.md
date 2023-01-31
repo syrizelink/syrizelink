@@ -8,4 +8,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syrizelink&layout=compact&theme=vue&locale=cn&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syrizelink&count_private=true&show_icons=true&hide=contribs&theme=vue&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syrizelink&include_all_commits&show_icons=true&hide=contribs&theme=vue&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
