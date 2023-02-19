@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syrize</h1>
 
-<p align="center">
-<!--START_SECTION:SHOW_PROFILE_VIEWS-->
-<!--END_SECTION:SHOW_PROFILE_VIEWS-->
-</p>
 <div align="center">
   
 - 🎓 目前是一名大一学生，就读于计算机科学专业
@@ -106,14 +102,7 @@
   
 <div>
   <a>
-    <!--START_SECTION:SHOW_COMMIT-->
-    <!--END_SECTION:SHOW_COMMIT-->
-  </a>
-  <a>
-    <!--START_SECTION:SHOW_DAYS_OF_WEEK-->
-    <!--END_SECTION:SHOW_DAYS_OF_WEEK-->
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
   </a>
 <div/>
-  
-<!--START_SECTION:SHOW_UPDATED_DATE-->
-<!--END_SECTION:SHOW_UPDATED_DATE-->
