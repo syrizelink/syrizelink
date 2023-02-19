@@ -14,5 +14,11 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_LINES_OF_CODE: "False"
+          SHOW_LANGUAGE: "False"
+          SHOW_SHORT_INFO: "False"
+          SHOW_TIMEZONE: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_OS: "False"
         env:
           ACTIONS_STEP_DEBUG: true
