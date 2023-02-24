@@ -8,7 +8,7 @@
 
 - 🌱 我目前正在学习 **C++、Vue** 以及 **SpringBoot**
 
-- 📝 你可以在这里访问我的博客 [blog.syrizelink.top](blog.syrizelink.top)
+- 📝 你可以在这里访问我的博客 [blog.syrizelink.top](https://blog.syrizelink.top/)
 
 - 📫 通过邮箱联系我 [syrize@qq.com](syrize@qq.com)
 
