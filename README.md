@@ -6,7 +6,7 @@
 
 - 💻 我喜欢且享受着编写代码、设计程序的过程
 
-- 🌱 我目前正在学习 **C++、Vue** 以及 **SpringBoot**
+- 🌱 我目前正在学习 **C++**
 
 - 📝 你可以在这里访问我的博客 [blog.syrizelink.top](https://blog.syrizelink.top/)
 
@@ -40,14 +40,6 @@
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
   </a> 
   
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
