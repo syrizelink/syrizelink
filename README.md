@@ -6,7 +6,7 @@
 
 - 💻 我喜欢且享受着编写代码、设计程序的过程
 
-- 🌱 我目前正在学习 **C++**
+- 🌱 我目前正在学习 **C#**
 
 - 📝 你可以在这里访问我的博客 [blog.syrizelink.top](https://blog.syrizelink.top/)
 
@@ -22,8 +22,12 @@
 <h3 align="center">⚙️工具 / 技术栈:</h3>
 <p align="center">包含正在学习的:</p>
 <p align="center"> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a> 
   
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
