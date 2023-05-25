@@ -6,7 +6,7 @@
 
 - 💻 我喜欢且享受着编写代码、设计程序的过程
 
-- 🌱 我目前正在学习 **C#**
+- 🌱 我目前正在学习 **Spring**
 
 - 📝 你可以在这里访问我的博客 [blog.syrizelink.top](https://blog.syrizelink.top/)
 
