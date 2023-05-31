@@ -19,15 +19,11 @@
 ------
 
 
-<h3 align="center">⚙️工具 / 技术栈:</h3>
+<h3 align="center">⚙️常用工具 / 技术栈:</h3>
 <p align="center">包含正在学习的:</p>
 <p align="center"> 
   <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a> 
   
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
