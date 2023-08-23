@@ -2,11 +2,11 @@
 
 <div align="center">
   
-- 🎓 目前是一名大一学生，就读于计算机科学专业
+- 🎓 目前是一名大二学生，就读于计算机科学专业
 
 - 💻 我喜欢且享受着编写代码、设计程序的过程
 
-- 🌱 我目前正在学习 **Spring Cloud**
+- 🌱 我目前正在学习 **Kotlin**
 
 - 📝 你可以在这里访问我的博客 [blog.syrizelink.top](https://blog.syrizelink.top/)
 
