@@ -4,15 +4,13 @@
   
 - 🎓 目前是一名大二学生，就读于计算机科学专业
 
-- 💻 我喜欢且享受着编写代码、设计程序的过程
-
 - 🌱 我目前正在学习 **Kotlin**
 
 - 📝 你可以在这里访问我的博客 [blog.syrizelink.top](https://blog.syrizelink.top/)
 
 - 📫 通过邮箱联系我 [syrize@qq.com](syrize@qq.com)
 
-- ⭐ 如果我的项目有帮到你, 不妨给个Star, 这是对我最大的鼓励🎉
+- ⭐ 如果我有帮到你, 不妨给个Star, 这是对我最大的鼓励🎉
 </div>
 
 
@@ -20,12 +18,7 @@
 
 
 <h3 align="center">⚙️常用工具 / 技术栈:</h3>
-<p align="center">包含正在学习的:</p>
 <p align="center"> 
-  <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
