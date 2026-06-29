@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syrize</h1>
 
 <div align="center">
-  
-<a>🎓 Currently a college student enrolled in the Computer Science program<a/>
 
 <a>🌱 I'm learning **Pytorch**<a/>
 
@@ -47,10 +45,6 @@
   
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VisualStudio" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
   
   <a href="" target="_blank" rel="noreferrer"> 
