@@ -80,8 +80,36 @@
 <div>
   <a>
     <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
 
- Last Updated on 24/07/2026 19:54:44 UTC
+```text
+🌞 Morning                37 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+🌆 Daytime                1051 commits        █████████░░░░░░░░░░░░░░░░   36.17 % 
+🌃 Evening                1577 commits        ██████████████░░░░░░░░░░░   54.27 % 
+🌙 Night                  241 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   900 commits         ████████░░░░░░░░░░░░░░░░░   30.97 % 
+Tuesday                  240 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+Wednesday                269 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Thursday                 359 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Friday                   407 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Saturday                 272 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+Sunday                   459 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🔥 Editors: 
+Edge                     44 hrs              █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 25/07/2026 19:42:53 UTC
 <!--END_SECTION:waka-->
   </a>
 <div/>
