@@ -80,24 +80,26 @@
 <div>
   <a>
     <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-24%20hrs%2051%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                38 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-🌆 Daytime                1024 commits        █████████░░░░░░░░░░░░░░░░   36.62 % 
-🌃 Evening                1523 commits        ██████████████░░░░░░░░░░░   54.47 % 
-🌙 Night                  211 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+🌞 Morning                54 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+🌆 Daytime                1119 commits        █████████░░░░░░░░░░░░░░░░   36.09 % 
+🌃 Evening                1655 commits        █████████████░░░░░░░░░░░░   53.37 % 
+🌙 Night                  273 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   874 commits         ████████░░░░░░░░░░░░░░░░░   31.26 % 
-Tuesday                  230 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
-Wednesday                241 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-Thursday                 342 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-Friday                   398 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Saturday                 256 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-Sunday                   455 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+Monday                   949 commits         ████████░░░░░░░░░░░░░░░░░   30.60 % 
+Tuesday                  250 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+Wednesday                297 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+Thursday                 376 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Friday                   416 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Saturday                 288 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+Sunday                   525 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
 ```
 
 
@@ -105,12 +107,34 @@ Sunday                   455 commits         ████░░░░░░░�
 
 ```text
 🔥 Editors: 
-Edge                     53 hrs 18 mins      ████████████████████████░   95.21 % 
-VS Code                  2 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Edge                     59 hrs 12 mins      ████████████████████████░   95.83 % 
+VS Code                  2 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 4 mins (0.12%)
+
+✍️ 0 lines written by AI, 164 lines written by hand (0.0% AI-written)
+
+🔤 79,404 Input Tokens, 1,494 Output Tokens
+
+💵 $0.26 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 2 AI Prompts
+
+Nemotron                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 130 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 26/07/2026 19:44:09 UTC
+ Last Updated on 27/07/2026 20:03:51 UTC
 <!--END_SECTION:waka-->
   </a>
 <div/>
